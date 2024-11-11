@@ -4,9 +4,19 @@ You can use the [editor on GitHub](https://github.com/abootatoo/YAY/edit/master/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Apple Cobbler
+Ingredients
+1. 4 cups flour
+2. 1-1/4 cups sugar
+3. 1-1/2 cups (3 blocks) butter
+4. 2 cans apple pie filling
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Steps
+1. Combine flour + sugar. Cut in butter
+2. Press 1/2 into bottom of 9'' x 13'' pan.
+3. Add apple filling.
+4. Crumble other 1/2 of flour mixture on top.
+5. Bake @350 degrees F for 1 hour.
 
 ### Pumpkin Bread (9'' x 5'' loaf)
 Ingredients
