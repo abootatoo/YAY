@@ -1,4 +1,4 @@
-## Welcome to Kari's Cookings
+## Kari's Cookbook
 
 ### Meatloaf
 Ingredients
