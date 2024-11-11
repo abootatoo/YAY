@@ -1,8 +1,31 @@
 ## Welcome to Kari's Cookings
 
-You can use the [editor on GitHub](https://github.com/abootatoo/YAY/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Meatloaf
+Ingredients
+1. 1 lb. lean ground beef
+2. 1 cup breadcrumbs
+3. 1/2 cup onion, dried
+4. 1/2 cup milk
+5. 1 large egg, beaten
+6. 2 tbsp. ketchup
+7. 1 tbsp. worcestershire sauce/shoyu
+8. 3/4 tsp. salt
+9. 1/4 tsp. pepper
+10. 1/2 tsp. garlic salt
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Glaze: 
+1. 1/2 cup ketchup
+2. 1/4 cup brown sugar, packed
+3. 2 tbsp. vinegar
+
+Steps
+1. Preheat oven to 350 degrees F
+2. Line 9x5 loaf pan w/foil + spray
+3. Add all ingr. to a large bowl + mix w/hands until well combined.
+4. Add meat mixt. to loaf pan + pat down into even layer
+5. Mix together glaze ingr. + spread over top
+6. Bake for 55-60 min.
+7. Let meatloaf rest for 10 min before cutting
 
 ### Apple Cobbler
 Ingredients
