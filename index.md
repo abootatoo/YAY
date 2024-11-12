@@ -13,7 +13,7 @@ Ingredients
 9. 1/4 tsp. pepper
 10. 1/2 tsp. garlic salt
 
-Glaze: 
+Glaze
 1. 1/2 cup ketchup
 2. 1/4 cup brown sugar, packed
 3. 2 tbsp. vinegar
